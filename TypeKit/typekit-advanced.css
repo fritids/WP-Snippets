@@ -1,0 +1,5 @@
+/* TypeKit Control FOUT
+   Controlling the Flash of Unstyled Text (or FOUT) using Font Events
+*/
+.wf-loading h1,.wf-loading h2,.wf-loading h3,.wf-loading h4,.wf-loading h5,.wf-loading h6,.wf-loading p, .wf-loading td, .wf-loading time, .wf-loading li {visibility: hidden;}
+.wf-active h1,.wf-active h2,.wf-active h3,.wf-active h4,.wf-active h5,.wf-active h6,.wf-active p, .wf-active td, .wf-active time, .wf-active li {visibility: visible;}
